@@ -8,6 +8,10 @@ This is example shows different parts of the Git repository adn vairous commands
 
 ##Purpose 
 
+The purpose is important. YOu will undestand it soon. 
+
 ##Deployment
+
+THi sis a simple web porject any solution can use. 
 
 ##How to Contribute 
