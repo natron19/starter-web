@@ -15,3 +15,6 @@ The purpose is important. YOu will undestand it soon.
 THi sis a simple web porject any solution can use. 
 
 ##How to Contribute 
+
+###Copyright 
+Git training 2015
