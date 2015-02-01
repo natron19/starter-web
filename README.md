@@ -22,5 +22,5 @@ Please for this repository then issue pull request for review
 
 ###Copyright 
 Git training 2015
-
+All rights reserved
 Addine for rebasing example. 
