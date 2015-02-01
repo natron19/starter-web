@@ -6,6 +6,8 @@ More changes from myfeatures too
 
 ##Introduction 
 
+doing emergency fix after stash
+
 This is example shows different parts of the Git repository adn vairous commands using a web project. 
 
 ##Purpose 
