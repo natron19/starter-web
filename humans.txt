@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+  make some change
     <name> -- <role> -- <twitter>
     Nathan    nathan19@hotmail.com    natron19
 changes 
@@ -14,6 +14,6 @@ changes
 
     HTML5, CSS3
     jQuery, Modernizr
-
+    add values
 
 Asymmetrical consequat nulla, sunt food truck accusamus labore brunch actually nostrud chambray. Sriracha quinoa consectetur, eu occupy magna DIY dolor et yr excepteur ea. Neutra deep v consequat, normcore DIY reprehenderit do aliqua minim. Flexitarian magna dolore freegan, twee anim put a bird on it aesthetic nulla craft beer cliche plaid. Odio brunch gluten-free lo-fi, nulla vinyl blog 3 wolf moon aute shabby chic est single-origin coffee. Messenger bag readymade elit, fugiat odio banh mi four loko deep v. Laboris jean shorts Williamsburg nesciunt.
