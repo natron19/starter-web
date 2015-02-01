@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Nathan    nathan19@hotmail.com    natron19
 
 # THANKS
 
