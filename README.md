@@ -16,5 +16,7 @@ THi sis a simple web porject any solution can use.
 
 ##How to Contribute 
 
+Please for this repository then issue pull request for review 
+
 ###Copyright 
 Git training 2015
